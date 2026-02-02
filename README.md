@@ -4,7 +4,7 @@
 This repository implements a novel training constraint based on the research by **Park et al. (2024)[cite_start]**. 
 
 ##  Biological Inspiration
-[cite_start]In male domestic pigs, suppressing the neonatal LH rise leads to the inhibition of testicular development. We apply this logic to **Deep Learning** by suppressing "Signal Surges" in the neonatal (early) phase of model training to prevent the development of biased or redundant feature representations.
+In male domestic pigs, suppressing the neonatal LH rise leads to the inhibition of testicular development. We apply this logic to **Deep Learning** by suppressing "Signal Surges" in the neonatal (early) phase of model training to prevent the development of biased or redundant feature representations.
 
 ## Key Mechanisms
 * **LH-Rise Metaphor**: Identifying early training gradients that define model "maturity."
